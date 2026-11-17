@@ -1,0 +1,1 @@
+{"name":"brook-ws","version":"1.0.0","private":true,"description":"ws service","scripts":{"start":"./brook wsserver --listen :8080 --password placeholder --path /ws"}}
